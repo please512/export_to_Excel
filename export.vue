@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import exportExcel from '../../../util/js-export-excel.js'
+import exportExcel from './js-export-excel.js'
 var option = {};
 导出表格标题 // 
 option.fileName="警情处理Excel文档"
